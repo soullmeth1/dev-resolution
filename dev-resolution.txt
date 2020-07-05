@@ -2,4 +2,5 @@ Target
 - Konsisten untuk terus belajar web programming
 - Membuat beberapa web aplikasi
 - Menjadi Praktisi
-- Mobile Dev
+- vue
+- React
