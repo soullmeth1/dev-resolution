@@ -1,0 +1,2 @@
+# dev-resolution
+Plan Forward
