@@ -4,3 +4,4 @@ Target
 - Menjadi Praktisi
 - Mobile Dev
  a. react native
+ b. fluter
