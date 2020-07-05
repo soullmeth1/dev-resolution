@@ -2,6 +2,8 @@ Target
 - Konsisten untuk terus belajar web programming
 - Membuat beberapa web aplikasi
 - Menjadi Praktisi
+- vue
+- React
 - Mobile Dev
  a. react native
  b. fluter
