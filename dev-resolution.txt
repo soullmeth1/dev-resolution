@@ -3,3 +3,5 @@ Target
 - Membuat beberapa web aplikasi
 - Menjadi Praktisi
 - Mobile Dev
+ a. react native
+ b. fluter
