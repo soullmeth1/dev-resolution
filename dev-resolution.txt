@@ -4,3 +4,6 @@ Target
 - Menjadi Praktisi
 - vue
 - React
+- Mobile Dev
+ a. react native
+ b. fluter
